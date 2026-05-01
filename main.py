@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 # ---------------------------------------------
 # CONFIG
 # ---------------------------------------------
-OPENROUTER_KEY = "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"
+OPENROUTER_KEY = "ADD_OPENROUTER_API_KEY"
 MODEL_NAME = "nvidia/nemotron-nano-12b-v2-vl:free"  # You can change model here
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
